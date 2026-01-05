@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Estate-agent-app-CW/static/css/main.d92660d3.css",
+    "main.css": "/Estate-agent-app-CW/static/css/main.dab3a8c0.css",
     "main.js": "/Estate-agent-app-CW/static/js/main.11e4ebf0.js",
     "index.html": "/Estate-agent-app-CW/index.html",
-    "main.d92660d3.css.map": "/Estate-agent-app-CW/static/css/main.d92660d3.css.map",
+    "main.dab3a8c0.css.map": "/Estate-agent-app-CW/static/css/main.dab3a8c0.css.map",
     "main.11e4ebf0.js.map": "/Estate-agent-app-CW/static/js/main.11e4ebf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d92660d3.css",
+    "static/css/main.dab3a8c0.css",
     "static/js/main.11e4ebf0.js"
   ]
 }
